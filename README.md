@@ -65,8 +65,7 @@
     3. Agregar al ejercicio anterior una validación para no permitir duplicados e imprimir un mensaje si el item ya existe “ya existe xxx con yyy unidades”.
 
 <br>
----
-<br> 
+<hr> 
 
 ## 🗒 Ejercicio integrador JavaScript
 
